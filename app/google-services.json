@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "313815444257",
+    "firebase_url": "https://strangerpictionary.firebaseio.com",
+    "project_id": "strangerpictionary",
+    "storage_bucket": "strangerpictionary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313815444257:android:65fbcd19c8e89d62",
+        "android_client_info": {
+          "package_name": "com.messaging.randomchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313815444257-nk7vui88atfhmk335ft5vm4n1tfgj927.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.messaging.randomchat",
+            "certificate_hash": "e8ca65194f172f5dd04f51d344790697dc2d8987"
+          }
+        },
+        {
+          "client_id": "313815444257-r9dlg04lsqrktc6d1osafvcbjgmgrm2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8SKrYnF35yBAAPlJnd1nWeY0IK7y28rQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313815444257-r9dlg04lsqrktc6d1osafvcbjgmgrm2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
